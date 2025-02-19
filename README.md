@@ -4,16 +4,15 @@
 
 The project involves an analysis of video game sales data, focusing on various aspects such as sales by years and genre, top-selling games, platforms, and publishers. The analysis provides insights into trends and patterns in the video game industry over time.
 
-**Table of Contents**
-
-Objectives
-Dataset
-Installation_Prerequisities
-Usage
-Analysis & Results
-License
-
-
+## Table of Contents
+- [Objectives](#Objectives)
+- [Dataset](#Dataset)
+- [Installation_Prerequisities](#Installation_Prerequisities)
+- [Usage](#Usage)
+- [Analysis & Results](#Analysis & Results)
+- [Data Visualization](#Data Visualization)
+- [License](#license)
+  
 **Objectives**
 
 **Data Preprocessing:** Clean the data using Python libraries to ensure data integrity. This includes handling null values, duplicates, and outliers.
@@ -135,6 +134,10 @@ In Japan, Namco Bandai Games was the top publisher by sales.
 **Data Visualization**
 
 Created interactive visualizations using Tableau to effectively communicate these insights.
+
+Find the Interactive Tableau Dashboard here:
+
+https://public.tableau.com/app/profile/soujanya.tumma/viz/GamesAnalysis_17399291063660/Dashboard1
 
 **License** 
 
