@@ -149,5 +149,5 @@ Created interactive visualizations using Tableau to effectively communicate thes
 
 Find the Interactive Tableau Dashboard here:
 
-https://public.tableau.com/app/profile/soujanya.tumma/viz/GamesAnalysis_17399291063660/Dashboard1
+https://public.tableau.com/app/profile/soujanya.tumma/viz/GamesAnalysis_17399322799040/Dashboard1?publish=yes
 
