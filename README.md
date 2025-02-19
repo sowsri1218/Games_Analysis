@@ -29,9 +29,15 @@ You can download the dataset from the CSV file attached to this project or from 
 To install and set up the project, you'll need the following Python libraries:
 
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 scipy
+
 Tableau for Data Visualization
