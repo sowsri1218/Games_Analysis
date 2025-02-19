@@ -15,7 +15,8 @@ The project involves an analysis of video game sales data, focusing on various a
 - [Data Visualization](#Data_Visualization)
 
   
-**Objectives**
+## **Objectives**
+
 
 **Data Preprocessing:** Clean the data using Python libraries to ensure data integrity. This includes handling null values, duplicates, and outliers.
 
@@ -34,11 +35,13 @@ The project involves an analysis of video game sales data, focusing on various a
 **Data Visualization:** Create interactive and informative visualizations to effectively communicate insights using Tableau.
 
 
-**Dataset**
+## **Dataset**
+
 You can download the dataset from the CSV file attached to this project or from Kaggle.
 
 
-**Installation_Prerequisities**
+## **Installation_Prerequisities**
+
 To install and set up the project, you'll need the following Python libraries:
 
 numpy
@@ -56,7 +59,7 @@ scipy
 Tableau for Data Visualization
 
 
-**Usage**
+## **Usage**
 
 Clone the repository to your local machine
 
@@ -76,12 +79,12 @@ Create a new branch for your feature or bug fix.
 
 Submit a pull request with a detailed description of your changes.
 
-**License** 
+## **License** 
 
 This project is open source and available for anyone to use for personal or educational purposes. As a portfolio project, it is not encumbered by formal licensing restrictions. Feel free to explore, modify, and distribute the code as you see fit.
 
 
-**Dataset Overview**
+## **Dataset Overview**
 
 The dataset includes games data from 1980 to 2017, with key performance indicators (KPIs):
 
@@ -95,7 +98,7 @@ Total Genres: 12
 
 Sales Regions: Japan, North America, Global, EU, Other
 
-**Data Preprocessing**
+## **Data Preprocessing**
 
 Utilized Python libraries (Pandas, NumPy, Scikit-learn) to handle:
 
@@ -106,7 +109,7 @@ Duplicates: Removed duplicate entries to maintain data accuracy.
 Outliers: Identified and handled outliers to ensure consistency and reliability.
 
 
-**Analysis & Results**
+## **Analysis & Results**
 
 **Sales Trends**
 
@@ -140,7 +143,7 @@ Electronic Arts was the leading publisher globally in terms of sales.
 
 In Japan, Namco Bandai Games was the top publisher by sales.
 
-**Data Visualization**
+## **Data Visualization**
 
 Created interactive visualizations using Tableau to effectively communicate these insights.
 
