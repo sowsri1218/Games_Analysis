@@ -117,7 +117,7 @@ The number of games released and sales began to increase around 1997.
 
 Sales peaked around 2001 and saw the highest releases between 2009 and 2010.
 
-A gradual decline in sales and releases was observed in 2016.
+A gradual decline in sales began from 2012 and followed by further decline in 2016.
 
 **Genre Analysis**
 
