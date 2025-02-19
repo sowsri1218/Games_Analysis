@@ -5,13 +5,15 @@
 The project involves an analysis of video game sales data, focusing on various aspects such as sales by years and genre, top-selling games, platforms, and publishers. The analysis provides insights into trends and patterns in the video game industry over time.
 
 ## Table of Contents
+
 - [Objectives](#Objectives)
 - [Dataset](#Dataset)
 - [Installation_Prerequisities](#Installation_Prerequisities)
 - [Usage](#Usage)
-- [Analysis & Results](#Analysis & Results)
-- [Data Visualization](#Data Visualization)
 - [License](#license)
+- [Analysis & Results](#Analysis&Results)
+- [Data Visualization](#Data_Visualization)
+
   
 **Objectives**
 
@@ -31,8 +33,10 @@ The project involves an analysis of video game sales data, focusing on various a
 
 **Data Visualization:** Create interactive and informative visualizations to effectively communicate insights using Tableau.
 
+
 **Dataset**
 You can download the dataset from the CSV file attached to this project or from Kaggle.
+
 
 **Installation_Prerequisities**
 To install and set up the project, you'll need the following Python libraries:
@@ -71,6 +75,11 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 
 Submit a pull request with a detailed description of your changes.
+
+**License** 
+
+This project is open source and available for anyone to use for personal or educational purposes. As a portfolio project, it is not encumbered by formal licensing restrictions. Feel free to explore, modify, and distribute the code as you see fit.
+
 
 **Dataset Overview**
 
@@ -139,6 +148,3 @@ Find the Interactive Tableau Dashboard here:
 
 https://public.tableau.com/app/profile/soujanya.tumma/viz/GamesAnalysis_17399291063660/Dashboard1
 
-**License** 
-
-This project is open source and available for anyone to use for personal or educational purposes. As a portfolio project, it is not encumbered by formal licensing restrictions. Feel free to explore, modify, and distribute the code as you see fit.
