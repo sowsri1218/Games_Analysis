@@ -1,6 +1,6 @@
 # Games_Analysis
 
-##**Project Overview**
+##Project Overview**
 
 The project involves an analysis of video game sales data, focusing on various aspects such as sales by years and genre, top-selling games, platforms, and publishers. The analysis provides insights into trends and patterns in the video game industry over time.
 
@@ -20,7 +20,7 @@ The project involves an analysis of video game sales data, focusing on various a
 
 **Data Preprocessing:** Clean the data using Python libraries to ensure data integrity. This includes handling null values, duplicates, and outliers.
 
-**Data Manipulation:** Analyse and gain insights from the data
+**Data Manipulation:** Data Manipulation is to extract meaningful insights and patterns, which are essential for understanding the video game industry's trends and dynamics.
 
 **Analyze Sales Trends:** Examine how video game sales have evolved from 1980 to 2012, identifying key trends and peaks in sales in different regions.
 
@@ -46,17 +46,15 @@ You can download the dataset from the CSV file attached to this project or from 
 
 To install and set up the project, you'll need the following Python libraries:
 
-numpy
+Numpy
 
-pandas
+Pandas
 
-matplotlib
+Matplotlib
 
-seaborn
+Seaborn
 
-scikit-learn
-
-scipy
+Scipy
 
 Tableau for Data Visualization
 
@@ -90,7 +88,7 @@ This project is open source and available for anyone to use for personal or educ
 
 The dataset includes games data from 1980 to 2017, with key performance indicators (KPIs):
 
-Total Games: 11,000
+Total Games: 11k
 
 Total Platforms: 31
 
@@ -98,20 +96,30 @@ Total Publishers: 576
 
 Total Genres: 12
 
-Sales Regions: Japan, North America, Global, EU, Other
-
-## **Data Preprocessing**
-
-Utilized Python libraries (Pandas, NumPy, Scikit-learn) to handle:
-
-Null Values: Managed and imputed missing data.
-
-Duplicates: Removed duplicate entries to maintain data accuracy.
-
-Outliers: Identified and handled outliers to ensure consistency and reliability.
+Sales Regions: Japan, North America, Global, Europe, Other sales
 
 
 ## **Analysis & Results**
+
+## **Data Preprocessing**
+
+Utilized Python libraries to ensure data integrity and prepare the dataset for analysis:
+
+Null Values:
+
+Identified and dropped null values using Pandas and NumPy.
+
+Duplicates:
+
+Checked for duplicates in the dataset and confirmed that no duplicates were found.
+
+Outliers:
+
+Utilized SciPy to identify and handle outliers, ensuring consistency and reliability in the data.
+
+Visualized the outliers using Matplotlib and Seaborn for better understanding and analysis.
+
+## **Data Manipulation**
 
 **Sales Trends**
 
@@ -145,9 +153,11 @@ Electronic Arts was the leading publisher globally in terms of sales.
 
 In Japan, Namco Bandai Games was the top publisher by sales.
 
+These insights provide a comprehensive overview of the video game industry trends, preferences, and performance over time.
+
 ## **Data Visualization**
 
-Created interactive visualizations using Tableau to effectively communicate these insights.
+Created interactive dashboard using Tableau to effectively communicate these insights.
 
 Find the Interactive Tableau Dashboard here:
 
