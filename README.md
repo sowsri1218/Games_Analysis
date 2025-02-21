@@ -105,15 +105,15 @@ Sales Regions: Japan, North America, Global, Europe, Other sales
 
 Utilized Python libraries to ensure data integrity and prepare the dataset for analysis:
 
-Null Values:
+**Null Values**
 
 Identified and dropped null values using Pandas and NumPy.
 
-Duplicates:
+**Duplicates**
 
 Checked for duplicates in the dataset and confirmed that no duplicates were found.
 
-Outliers:
+**Outliers**
 
 Utilized SciPy to identify and handle outliers, ensuring consistency and reliability in the data.
 
