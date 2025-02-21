@@ -46,17 +46,15 @@ You can download the dataset from the CSV file attached to this project or from 
 
 To install and set up the project, you'll need the following Python libraries:
 
-Numpy
+**Numpy**
 
-Pandas
+**Pandas**
 
-Matplotlib
+**Matplotlib**
 
-Seaborn
+**Seaborn**
 
-Scipy
-
-Tableau for Data Visualization
+**Scipy**
 
 
 ## **Usage**
