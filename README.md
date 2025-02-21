@@ -1,6 +1,6 @@
 # Games_Analysis
 
-##Project Overview**
+## **Project Overview**
 
 The project involves an analysis of video game sales data, focusing on various aspects such as sales by years and genre, top-selling games, platforms, and publishers. The analysis provides insights into trends and patterns in the video game industry over time.
 
