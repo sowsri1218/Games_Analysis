@@ -22,17 +22,17 @@ The project involves an analysis of video game sales data, focusing on various a
 
 **Data Manipulation:** Data Manipulation is to extract meaningful insights and patterns, which are essential for understanding the video game industry's trends and dynamics.
 
-**Analyze Sales Trends:** Examine how video game sales have evolved from 1980 to 2012, identifying key trends and peaks in sales in different regions.
+    **Analyze Sales Trends:** Examine how video game sales have evolved from 1980 to 2012, identifying key trends and peaks in sales in different regions.
 
-**Genre Analysis:** Determine which genres have been the most popular and successful in terms of sales.
+    **Genre Analysis:** Determine which genres have been the most popular and successful in terms of sales.
 
-**Top-Selling Games:** Identify the top 10 best-selling video games and analyze their sales figures.
+    **Top-Selling Games:** Identify the top 10 best-selling video games and analyze their sales figures.
 
-**Platform Analysis:** Analyze which gaming platforms have generated the most sales.
+    **Platform Analysis:** Analyze which gaming platforms have generated the most sales.
 
-**Publisher Analysis:** Identify the top publishersin the video game industry based on sales.
+    **Publisher Analysis:** Identify the top publishersin the video game industry based on sales.
 
-**Genre Performance Over the Years:** Analyze how different game genres have performed over time, highlighting trends and changes in popularity.
+    **Genre Performance Over the Years:** Analyze how different game genres have performed over time, highlighting trends and changes in popularity.
 
 **Data Visualization:** Create interactive and informative visualizations to effectively communicate insights using Tableau.
 
