@@ -1,6 +1,6 @@
 # Games_Analysis
 
-**Project Overview**
+##**Project Overview**
 
 The project involves an analysis of video game sales data, focusing on various aspects such as sales by years and genre, top-selling games, platforms, and publishers. The analysis provides insights into trends and patterns in the video game industry over time.
 
@@ -20,7 +20,9 @@ The project involves an analysis of video game sales data, focusing on various a
 
 **Data Preprocessing:** Clean the data using Python libraries to ensure data integrity. This includes handling null values, duplicates, and outliers.
 
-**Analyze Sales Trends:** Examine how video game sales have evolved from 1980 to 2012, identifying key trends and peaks in sales.
+**Data Manipulation:** Analyse and gain insights from the data
+
+**Analyze Sales Trends:** Examine how video game sales have evolved from 1980 to 2012, identifying key trends and peaks in sales in different regions.
 
 **Genre Analysis:** Determine which genres have been the most popular and successful in terms of sales.
 
